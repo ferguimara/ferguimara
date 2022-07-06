@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who began his journey by completing General Assembly's Software Engineering Immersive Bootcamp. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+I’m a full-stack developer who began his journey by self-teaching through online resources and a few online coding bootcamps. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 When I began my coding journey, I quickly became obsessed with the concept of soling puzzles that inevitably unlocked the doors to applications that could drive efficiency and a better life for its consumers. From business management systems to health and wellness apps, I love creating full-stack applications that have a true impact.
 
