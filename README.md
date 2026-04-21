@@ -11,13 +11,13 @@ Outside of work, I'm a runner and surfer, and I channel that same energy into si
 
 ### What I'm Working On
 
-**LiveShot** — A tennis and pickleball live scores app, built by a fan for the fans. The vision is to build a true center for tennis — live scores, match context powered by AI, and a place where fans can learn everything about the sport. Django backend with WebSockets, iOS app launching May 2026. &nbsp; [`backend`](https://github.com/ferguimara/liveshot-backend) [`ios`](https://github.com/ferguimara/liveshot-ios)
+**LiveShot** — A tennis and pickleball live scores app, built by a fan for the fans. The vision is to build a true center for tennis — live scores, match context powered by AI, and a place where fans can learn everything about the sport. Django backend with WebSockets, iOS app launching May 2026. &nbsp;
 
-**EduConsults** — An ed-tech platform focused on bringing true learning and understanding back to education. Connecting students with the right guidance and making quality education consulting accessible. React Native app. &nbsp; [`repo`](https://github.com/ferguimara/EducationConsultants)
+**EduConsults** — An ed-tech platform focused on bringing true learning and understanding back to education. Connecting students with the right guidance and making quality education consulting accessible. React Native app. &nbsp;
 
-**PodSync** — A Swift app for syncing and managing podcast content. &nbsp; [`repo`](https://github.com/ferguimara/PodSync)
+**PodSync** — A Swift app for syncing and managing podcast content. &nbsp;
 
-**AI QuizCraft** — A web app that uses AI to generate quizzes from any content, making studying more interactive and personalized. &nbsp; [`repo`](https://github.com/ferguimara/AI-QuizCraft-WebApp)
+**AI QuizCraft** — A web app that uses AI to generate quizzes from any content, making studying more interactive and personalized. &nbsp;
 
 ---
 
