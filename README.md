@@ -1,11 +1,11 @@
 # Hey, I'm Fernando Guimaraes
 
+<a href="https://github.com/ferguimara" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://linkedin.com/in/fernando-b-guimaraes" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+
 **Frontend Platform Engineer** at [Translucent AI](https://www.translucent.ai) — where we're building agentic FP&A software for health systems. I build the platforms and tooling that let product teams ship faster: frontend architecture, design system infrastructure, CI/CD pipelines, and internal developer portals.
 
 Outside of work, I'm a runner and surfer, and I channel that same energy into side projects in ed-tech and sports. I got into this field through self-teaching and bootcamps, and I stayed because I love the puzzle — especially when the solution makes someone's day measurably better.
-
-<a href="https://github.com/ferguimara" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://linkedin.com/in/fernando-b-guimaraes" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
 ---
 
