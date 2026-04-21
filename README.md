@@ -57,20 +57,10 @@ Outside of work, I'm a runner and surfer, and I channel that same energy into si
 
 ### GitHub Stats
 
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats-nine-plum-48.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ferguimara&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats-nine-plum-48.vercel.app/api/top-langs/?username=ferguimara&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
-</td>
-<td valign="top" width="50%">
-</td>
-</tr>
-</table>
+<div>
+  <img src="https://github-readme-stats-nine-plum-48.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferguimara&hide_border=true&theme=tokyonight" width="49%" />
+</div>
+<div>
+  <img src="https://github-readme-stats-nine-plum-48.vercel.app/api/top-langs/?username=ferguimara&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" width="49%" />
+</div>
