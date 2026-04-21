@@ -58,7 +58,7 @@ Outside of work, I'm a runner and surfer, and I channel that same energy into si
 ### GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats-nine-plum-48.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-nine-plum-48.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferguimara&hide_border=true&theme=tokyonight" width="49%" />
 </div>
 <div>
