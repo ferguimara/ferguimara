@@ -1,8 +1,8 @@
 # Hey, I'm Fernando Guimaraes
 
-**Frontend Platform Engineer** at [Translucent AI](https://translucent.health) — building agentic AI for healthcare finance.
+**Frontend Platform Engineer** at [Translucent AI](https://translucent.health) — where we're building agentic FP&A software for health systems. I build the platforms and tooling that let product teams ship faster: frontend architecture, design system infrastructure, CI/CD pipelines, and internal developer portals.
 
-I build the platforms and tooling that let product teams ship faster. Right now that means owning our React frontend architecture, design system infrastructure, CI/CD pipelines, and internal developer portal — while leading the migration from Angular to a standalone React SPA serving thousands of healthcare professionals.
+Outside of work, I'm a runner and surfer, and I channel that same energy into side projects in ed-tech and sports. I got into this field through self-teaching and bootcamps, and I stayed because I love the puzzle — especially when the solution makes someone's day measurably better.
 
 <a href="https://github.com/ferguimara" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 <a href="https://linkedin.com/in/fernando-b-guimaraes" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
@@ -11,15 +11,13 @@ I build the platforms and tooling that let product teams ship faster. Right now 
 
 ### What I'm Working On
 
-**Angular-to-React Portal Migration** — Leading the full migration of our customer-facing portal from Angular to a standalone React SPA. Built the CI/CD pipeline, DNS cutover strategy, and auth integration. Dev environment is live, nonprod and prod are next.
+**LiveShot** — A tennis and pickleball live scores app, built by a fan for the fans. The vision is to build a true center for tennis — live scores, match context powered by AI, and a place where fans can learn everything about the sport. Django backend with WebSockets, iOS app launching May 2026. &nbsp; [`backend`](https://github.com/ferguimara/liveshot-backend) [`ios`](https://github.com/ferguimara/liveshot-ios)
 
-**Design System Infrastructure** — Built a CDN-hosted web component pattern using Shadow DOM so our design system can be embedded anywhere (Backstage, PDF generation via Gotenberg) without iframe or CSP headaches.
+**EduConsults** — An ed-tech platform focused on bringing true learning and understanding back to education. Connecting students with the right guidance and making quality education consulting accessible. React Native app. &nbsp; [`repo`](https://github.com/ferguimara/EducationConsultants)
 
-**Internal Developer Portal** — Contributing to our Backstage instance with custom plugins, MCP server actions for design tokens and workspace schemas, and TechDocs.
+**PodSync** — A Swift app for syncing and managing podcast content. &nbsp; [`repo`](https://github.com/ferguimara/PodSync)
 
-**Data Health Service** — Built a Python microservice from scratch for monitoring BigQuery data pipeline health, with federated GraphQL and Backstage integration.
-
-**PDF Generation Platform** — Migrated our documents-backend from embedded Chromium to a Gotenberg sidecar architecture for reliable, scalable PDF rendering.
+**AI QuizCraft** — A web app that uses AI to generate quizzes from any content, making studying more interactive and personalized. &nbsp; [`repo`](https://github.com/ferguimara/AI-QuizCraft-WebApp)
 
 ---
 
@@ -30,10 +28,12 @@ I build the platforms and tooling that let product teams ship faster. Right now 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TanStack](https://img.shields.io/badge/-TanStack_Query/Router-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Panda CSS](https://img.shields.io/badge/-Panda_CSS-FDE047?style=flat-square&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 **Backend** &nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -43,16 +43,15 @@ I build the platforms and tooling that let product teams ship faster. Right now 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
 **Observability** &nbsp;
 ![Honeycomb](https://img.shields.io/badge/-Honeycomb-F5A623?style=flat-square&logoColor=black)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
-**Tools** &nbsp;
+**AI/Tools** &nbsp;
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Backstage](https://img.shields.io/badge/-Backstage-9BF0E1?style=flat-square&logo=backstage&logoColor=black)
 ![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-3DD6F5?style=flat-square&logoColor=black)
+![Backstage](https://img.shields.io/badge/-Backstage-9BF0E1?style=flat-square&logo=backstage&logoColor=black)
 
 ---
 
@@ -68,7 +67,3 @@ I build the platforms and tooling that let product teams ship faster. Right now 
 </td>
 </tr>
 </table>
-
----
-
-Outside of code, I'm a runner and surfer. I got into tech through self-teaching and bootcamps, and I stayed because I love the puzzle — especially when the solution makes someone's workday measurably better. Healthcare finance is full of those puzzles.
