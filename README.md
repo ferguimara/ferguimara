@@ -59,8 +59,8 @@ Outside of work, I'm a runner and surfer, and I channel that same energy into si
 
 <div>
   <img src="https://github-readme-stats-nine-plum-48.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferguimara&hide_border=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-nine-plum-48.vercel.app/api/top-langs/?username=ferguimara&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" width="49%" />
 </div>
 <div>
-  <img src="https://github-readme-stats-nine-plum-48.vercel.app/api/top-langs/?username=ferguimara&hide_border=true&layout=compact&theme=tokyonight&langs_count=8" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferguimara&hide_border=true&theme=tokyonight" width="100%" />
 </div>
