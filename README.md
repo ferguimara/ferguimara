@@ -61,7 +61,7 @@ Outside of work, I'm a runner and surfer, and I channel that same energy into si
 <tr>
 <td width="50%" valign="top">
 <picture>
-<img src="https://github-readme-stats-nine-plum-48.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&card_width=400&rank_icon=github" width="100%" />
+<img src="https://github-readme-stats-nine-plum-48.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&card_width=400" width="100%" />
 </picture>
 </td>
 <td width="50%" valign="top">
