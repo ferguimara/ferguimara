@@ -1,75 +1,74 @@
-## Hey, I'm Fernando Guimaraes!  
-  
+# Hey, I'm Fernando Guimaraes
 
-<a href="https://github.com/ferguimara" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/fernando-b-guimaraes" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+**Frontend Platform Engineer** at [Translucent AI](https://translucent.health) — building agentic AI for healthcare finance.
 
+I build the platforms and tooling that let product teams ship faster. Right now that means owning our React frontend architecture, design system infrastructure, CI/CD pipelines, and internal developer portal — while leading the migration from Angular to a standalone React SPA serving thousands of healthcare professionals.
 
+<a href="https://github.com/ferguimara" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://linkedin.com/in/fernando-b-guimaraes" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
-### Glad to see you here!  
-I’m a full-stack developer who began his journey by self-teaching through online resources and a few online coding bootcamps. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+---
 
-When I began my coding journey, I quickly became obsessed with the concept of soling puzzles that inevitably unlocked the doors to applications that could drive efficiency and a better life for its consumers. From business management systems to health and wellness apps, I love creating full-stack applications that have a true impact.
+### What I'm Working On
 
-Outside of coding, I am an avid runner and surfer and am passionate about the health-tech and health and wellness industries.  
-  
+**Angular-to-React Portal Migration** — Leading the full migration of our customer-facing portal from Angular to a standalone React SPA. Built the CI/CD pipeline, DNS cutover strategy, and auth integration. Dev environment is live, nonprod and prod are next.
 
-<br/>  
+**Design System Infrastructure** — Built a CDN-hosted web component pattern using Shadow DOM so our design system can be embedded anywhere (Backstage, PDF generation via Gotenberg) without iframe or CSP headaches.
 
+**Internal Developer Portal** — Contributing to our Backstage instance with custom plugins, MCP server actions for design tokens and workspace schemas, and TechDocs.
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-</div>  
+**Data Health Service** — Built a Python microservice from scratch for monitoring BigQuery data pipeline health, with federated GraphQL and Backstage integration.
 
-<br/>  
+**PDF Generation Platform** — Migrated our documents-backend from embedded Chromium to a Gotenberg sidecar architecture for reliable, scalable PDF rendering.
 
+---
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+### Tech I Use Daily
 
-<img src="https://github-readme-stats.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TanStack](https://img.shields.io/badge/-TanStack_Query/Router-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Panda CSS](https://img.shields.io/badge/-Panda_CSS-FDE047?style=flat-square&logoColor=black)
 
-</td><td valign="top" width="50%">
+**Backend** &nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferguimara&hide_border=true&layout=compact" align="left" style="width: 100%" />
+**Platform** &nbsp;
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-</td></tr></table>  
+**Observability** &nbsp;
+![Honeycomb](https://img.shields.io/badge/-Honeycomb-F5A623?style=flat-square&logoColor=black)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
-<br/>  
+**Tools** &nbsp;
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Backstage](https://img.shields.io/badge/-Backstage-9BF0E1?style=flat-square&logo=backstage&logoColor=black)
+![LaunchDarkly](https://img.shields.io/badge/-LaunchDarkly-3DD6F5?style=flat-square&logoColor=black)
 
-  
+---
 
-<br/>  
+### GitHub Stats
 
-  
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ferguimara&show_icons=true&count_private=true&hide_border=true&theme=default" align="left" style="width: 100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ferguimara&hide_border=true&theme=default" align="left" style="width: 100%" />
+</td>
+</tr>
+</table>
 
-<br/>  
+---
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Outside of code, I'm a runner and surfer. I got into tech through self-teaching and bootcamps, and I stayed because I love the puzzle — especially when the solution makes someone's workday measurably better. Healthcare finance is full of those puzzles.
