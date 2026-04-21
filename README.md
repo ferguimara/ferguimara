@@ -1,6 +1,6 @@
 # Hey, I'm Fernando Guimaraes
 
-**Frontend Platform Engineer** at [Translucent AI](https://translucent.health) — where we're building agentic FP&A software for health systems. I build the platforms and tooling that let product teams ship faster: frontend architecture, design system infrastructure, CI/CD pipelines, and internal developer portals.
+**Frontend Platform Engineer** at [Translucent AI](https://www.translucent.ai) — where we're building agentic FP&A software for health systems. I build the platforms and tooling that let product teams ship faster: frontend architecture, design system infrastructure, CI/CD pipelines, and internal developer portals.
 
 Outside of work, I'm a runner and surfer, and I channel that same energy into side projects in ed-tech and sports. I got into this field through self-teaching and bootcamps, and I stayed because I love the puzzle — especially when the solution makes someone's day measurably better.
 
