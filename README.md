@@ -73,5 +73,5 @@ Outside of work, I'm a runner and surfer, and I channel that same energy into si
 </table>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ferguimara&hide_border=true&theme=tokyonight" width="60%" />
+<img src="https://github-readme-streak-stats-sooty-two.vercel.app/?user=ferguimara&hide_border=true&theme=tokyonight" width="60%" />
 </p>
